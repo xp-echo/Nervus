@@ -1,4 +1,4 @@
-# Submitting articles using this library
+# Published articles using this library
 This model is used in [article: XXX] published in [journal: YYY] (These will be replaced once publication is finalized).  
 In this article, a multi-label classification model with EfficientNetB6 was applied.  
 Detailed model descriptions are provided in the article and the actual usage of the library is provided below.
