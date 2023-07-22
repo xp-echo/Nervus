@@ -1,5 +1,5 @@
 # Published articles using this library
-This model is used in [Artificial intelligence-based model to classify cardiac functions from chest radiographs: a multi-institutional, retrospective model development and validation study](https://doi.org/10.1016/S2589-7500(23)00107-3) published in The Lancet Digital Health.
+This model is used in [Artificial intelligence-based model to classify cardiac functions from chest radiographs: a multi-institutional, retrospective model development and validation study](https://doi.org/10.1016/S2589-7500(23)00107-3) published in [The Lancet Digital Health](https://www.thelancet.com/journals/landig/home).
 In this article, a multi-label classification model with EfficientNetB6 was applied.  
 Detailed model descriptions are provided in the article and the actual usage of the library is provided below.
 
